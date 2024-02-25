@@ -1,8 +1,8 @@
-# Torob.com Recommended System Project
+#  Recommended System Project
 
 ## Introduction
 
-This repository contains code and documentation related to the Torob.com Recommended System Project, which was developed as part of a competition organized by Torob.com. The primary objective of this project was to optimize the arrangement of products shown to users, with a focus on ensuring that users are more likely to click on the first products presented to them. Additionally, the project had to address the "cold start" assumption, which meant that user search history couldn't be relied upon.
+This repository contains code and documentation related to the kasbino Recommended System Project. The primary objective of this project was to optimize the arrangement of products shown to users, with a focus on ensuring that users are more likely to click on the first products presented to them. Additionally, the project had to address the "cold start" assumption, which meant that user search history couldn't be relied upon.
 
 ## Spell Checker
 
